@@ -386,7 +386,7 @@ th:last-child {
 /* --- account-page--- */
 .account-page {
     padding-bottom: 50px;
-    background: linear-gradient(to top left, #fff, #ffd6d6);
+    background: linear-gradient(to bottom, #fff, #ffd6d6);
 }
 .form-container {
     background: #fff;
